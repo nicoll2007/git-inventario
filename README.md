@@ -1,0 +1,2 @@
+# git-inventario
+evidencia inventario
