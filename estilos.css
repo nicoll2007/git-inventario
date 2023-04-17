@@ -1,0 +1,127 @@
+.titulo{
+    position: absolute;
+    bottom: 70%;
+    left: 43%;
+}
+.proveedores{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 30%;
+    margin-top: 200px;
+    bottom: 50%;
+}
+.img_proveedores{
+    position: absolute;
+    left: 31%;
+    top: 50%;
+    color: #000000;
+    text-decoration: none;
+    
+}
+.empleados{
+    position: absolute;
+    width: 90px;
+    height: 103px;
+    margin-left: 40%;
+    margin-top: 200px;
+    bottom: 50%; 
+
+}
+.img_empleados{
+    position: absolute;
+    left: 41%;
+    top: 50%;
+    color: #000000;
+    text-decoration: none;
+}
+.clientes{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 50%;
+    margin-top: 200px;
+    bottom: 50%;
+}
+.img_clientes{
+    position: absolute;
+    left: 51.5%;
+    top: 50%;
+    color: #000000;
+    text-decoration: none;
+}
+.usuarios{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 60%;
+    margin-top: 200px;
+    bottom: 50%;
+}
+.img_usuarios{
+    position: absolute;
+    left: 61.5%;
+    top: 50%;
+    color: black;
+    text-decoration: none;
+}
+.productos{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 30%;
+    margin-top: 200px;
+    bottom: 30%;
+}
+.img_productos{
+    position: absolute;
+    left: 31.4%;
+    top: 70%;
+    color: black;
+    text-decoration: none;
+}
+.materiales{
+    position: absolute;
+    width: 90px;
+    height: 103px;
+    margin-left: 40%;
+    margin-top: 200px;
+    bottom: 30%; 
+}
+.img_materiales{
+    position: absolute;
+    left: 41%;
+    top: 70%;
+    color: #000000;
+    text-decoration: none;
+}
+.nominas{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 50%;
+    margin-top: 200px;
+    bottom: 30%;
+}
+.img_nominas{
+    position: absolute;
+    left: 51.5%;
+    top: 70%;
+    color: #000000;
+    text-decoration: none;
+}
+.facturas{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 60%;
+    margin-top: 200px;
+    bottom: 30%;
+}
+.img_facturas{
+    position: absolute;
+    left: 61.5%;
+    top: 70%;
+    color: black;
+    text-decoration: none;
+}
